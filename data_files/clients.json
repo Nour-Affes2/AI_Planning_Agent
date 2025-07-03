@@ -1,0 +1,6 @@
+[
+            {"id": 1, "name": "Tech Corp", "address": "100 Business Blvd", "city": "New York"},
+            {"id": 2, "name": "Healthcare Inc", "address": "200 Medical Dr", "city": "Boston"},
+            {"id": 3, "name": "Finance Ltd", "address": "300 Money St", "city": "Chicago"},
+            {"id": 4, "name": "Retail Group", "address": "400 Shop Ave", "city": "Seattle"}
+        ]

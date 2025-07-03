@@ -1,0 +1,7 @@
+[
+            {"id": 1, "name": "Alice Johnson", "address": "123 Main St", "city": "New York"},
+            {"id": 2, "name": "Bob Smith", "address": "456 Oak Ave", "city": "Boston"},
+            {"id": 3, "name": "Carol Davis", "address": "789 Pine Rd", "city": "Chicago"},
+            {"id": 4, "name": "David Wilson", "address": "321 Elm St", "city": "Seattle"}
+        
+]

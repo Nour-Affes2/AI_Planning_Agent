@@ -1,0 +1,7 @@
+[
+            {"id": 1, "name": "Software Development", "required_skill": 1},
+            {"id": 2, "name": "Data Processing", "required_skill": 2},
+            {"id": 3, "name": "Team Leadership", "required_skill": 3},
+            {"id": 4, "name": "Server Maintenance", "required_skill": 4},
+            {"id": 5, "name": "Client Support", "required_skill": 5}
+        ]
