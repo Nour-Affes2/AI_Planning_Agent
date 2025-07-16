@@ -13,10 +13,10 @@ def main():
         planning_dates=["2024-01-16", "2024-01-17"],
         time_slots=["09:00", "10:00", "11:00", "14:00", "15:00", "16:00"],
         task_assignments={
-            1: 1,  # Tech Corp needs Software Development
-            2: 5,  # Healthcare Inc needs Client Support
-            3: 2,  # Finance Ltd needs Data Processing
-            4: 3   # Retail Group needs Team Leadership
+            1: 1,  # Tech Corp a besoin de Software Development
+            2: 5,  # Healthcare Inc a besoin de Client Support
+            3: 2,  # Finance Ltd a besoin de Data Processing
+            4: 3   # Retail Group a besoin de Team Leadership
         },
         required_coverage={
             1: {"2024-01-16": 2, "2024-01-17": 1},
